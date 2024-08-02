@@ -2,10 +2,9 @@
 
 I'm a passionate web developer with experience in JavaScript. I love turning ideas into functional and beautiful websites and applications. Constantly learning and exploring new technologies to improve my coding skills and create innovative solutions.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Developer+for+the+Web.;Loves+to+Design+Creative+Solutions.;Loves+Open+Source.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Frontend+Developer+for+the+Web.;Loves+to+Design+Creative+Solutions.)](https://git.io/typing-svg)
 
-### 🥇 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=peeyush50&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 ## 🔧 Technologies & Tools
 
